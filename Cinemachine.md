@@ -54,6 +54,5 @@ Se implementaron cámaras adicionales que modifican la velocidad de juego usando 
 
 ### 9. Transición entre cámaras usando prioridad
 Se configuró un cambio de cámara mediante la propiedad Priority. Al colisionar con un objeto, la cámara confinada adquiría mayor prioridad sobre la cámara normal y viceversa.
-
 ![Gif](Imagenes/confinado.gif)
 
